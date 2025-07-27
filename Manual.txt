@@ -1,0 +1,24 @@
+Hi, this is an early test of a PDF File element extractor, including fields, images and more. 
+~ 01/03/25 ~
+
+-- Commands --
+
+'end' >> Close the program (you can also click on the 'X' button).
+
+
+Chaining pdf files >> You can input multiple pdf file paths separated by commas into the input. It will raise errors if the file is either not permitted to access, not found or has no input.
+
+Storing in folder >> You can state the specific folder to store the pdf images. If there are multiple files inputted for extraction, the program will create individual folders for each pdf file's images.
+
+-- Notes --
+
+You can state either the absolute path of the folder/file or relative path
+>> As in whether the file path has 'C:\Users' in it.
+
+By the way, the program is build for WINDOWS only and will run as per normal on WINDOWS 10 and 11.
+
+-- Log --
+
+01/03/25 >> PEX Version 0.1
+
+Thank you.
